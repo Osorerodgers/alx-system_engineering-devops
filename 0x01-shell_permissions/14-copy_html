@@ -1,0 +1,2 @@
+#!/bin/bash
+[me@linuxbox me]$ cp -u *.html destination
