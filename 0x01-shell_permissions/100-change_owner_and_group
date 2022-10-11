@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
+chown vincent chgrp staff
+=======
 chown vincent my_dir chgrp staff my_dir
+>>>>>>> refs/remotes/origin/master
