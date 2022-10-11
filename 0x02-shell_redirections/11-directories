@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -IR
+chmod -R +111 */
