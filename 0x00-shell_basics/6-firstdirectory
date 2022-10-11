@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 /tmp/ mkdir my_first_directory 
+=======
+mkdir /tmp/my_first_directory/
+>>>>>>> refs/remotes/origin/master

@@ -1,2 +1,7 @@
 #!/bin/bash
+<<<<<<< HEAD
 ln  __ls__ /bin/ls
+=======
+ln /bin/ls __ls__
+_
+>>>>>>> refs/remotes/origin/master
