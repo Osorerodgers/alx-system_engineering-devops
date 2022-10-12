@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 cat <file_name> | sort | uniq -c | grep -e '^\s.*1\s' | awk '{print $NF}'
+=======
+sort | uniq -u
+>>>>>>> c06566449314ce4275e8a2c401019e6859bce25d
