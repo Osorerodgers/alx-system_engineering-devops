@@ -1,3 +1,3 @@
 #!/bin/bash
 
-`"tail -"$Lines1"f /opt/grinder/svn/IAVS/GrinderLogs/GrinderBaseLogs/ iacta
+`tail -n 1 iacta >> iacta
